@@ -1,5 +1,6 @@
 # 💫 About Me:
-Olá! Sou João Pereira<br><br>Estudante de Ciência da Computação na UFCG (4º período), <br>com interesse em Desenvolvimento Full Stack e Data Science/IA.<br>Atualmente desenvolvendo projetos acadêmicos e construindo <br>meu portfólio. Aberto a oportunidades de estágio! 
+Hi! I'm João Pereira
+Computer Science student at UFCG (4th semester), interested in Full Stack Development and Data Science/AI. Currently working on academic projects and building my portfolio. Open to internship opportunities!
 
 
 ## 🌐 Socials:
