@@ -12,9 +12,7 @@ Hi! I'm João Pereira<br><br>Computer Science student at UFCG (4th semester), in
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jpereira-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jpereira-Dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jpereira-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=jpereira-Dev&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jpereira-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
